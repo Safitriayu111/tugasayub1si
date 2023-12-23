@@ -26,7 +26,7 @@ public class home extends javax.swing.JFrame {
 
         jLabel2.setBackground(new java.awt.Color(255, 0, 102));
         jLabel2.setFont(new java.awt.Font("Segoe Print", 1, 48)); // NOI18N
-        jLabel2.setText("PINJAM DULU SERATUSS!!!");
+        jLabel2.setText("HI ILOVEUUUUUU");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

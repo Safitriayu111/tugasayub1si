@@ -75,10 +75,9 @@ public class JFrameRegist extends javax.swing.JFrame {
 
         jLabel1.setBackground(new java.awt.Color(0, 0, 255));
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(255, 255, 51));
+        jLabel1.setForeground(new java.awt.Color(255, 0, 51));
         jLabel1.setText("Registrasi");
 
-        up.setBackground(new java.awt.Color(0, 255, 204));
         up.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         up.setForeground(new java.awt.Color(51, 51, 51));
         up.setText("Sigh Up");
